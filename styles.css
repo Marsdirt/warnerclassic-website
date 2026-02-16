@@ -51,7 +51,7 @@ header {
 }
 
 .logo {
-    max-width: 200px;
+    max-width: 800px;
     height: auto;
     filter: sepia(20%);
 }
@@ -65,7 +65,7 @@ h1 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.tagline {
+tagline {
     font-style: italic;
     color: #5a4636;
     font-size: 1.2em;
@@ -173,7 +173,7 @@ footer {
         padding: 20px;
     }
     
-    h1 {
+h1 {
         font-size: 2em;
     }
     
